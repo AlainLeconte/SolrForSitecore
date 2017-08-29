@@ -1,0 +1,6 @@
+2017-01-27 00:17:23.524 INFO  (main) [   ] o.e.j.s.Server jetty-9.3.14.v20161028
+2017-01-27 00:17:23.761 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter  ___      _       Welcome to Apache Solr™ version 7.0.0-SNAPSHOT 5375410807aecf3cc67f82ca1e9ee591f39d0ac7 - ishan - 2017-01-26 23:58:34
+2017-01-27 00:17:23.761 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter / __| ___| |_ _   Starting in cloud mode on port 8983
+2017-01-27 00:17:23.761 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter \__ \/ _ \ | '_|  Install dir: /home/ishan/lucene-solr-committers-copy/solr
+2017-01-27 00:17:23.772 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter |___/\___/_|_|    Start time: 2017-01-27T00:17:23.762Z
+2017-01-27 00:17:23.773 INFO  (main) [   ] o.a.s.s.StartupLoggingUtils Property solr.log.muteconsole given. Muting ConsoleAppender named CONSOLE
